@@ -10,5 +10,5 @@
 ## kaggle-machine-learning
 Проекты по машинному обучению, выполненные в рамках участия в соревнованиях Kaggle:
 1. `house_prices`: предсказание стоимости домов, результат участия в [соревновании](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) — RMSE = 0.12144, место в турнирной таблице — 292 из 4008 (топ-8%);
-2. `MNIST`: распознавание цифр, результат участия в [соревновании](https://www.kaggle.com/c/digit-recognizer/overview) — Accuracy = ..., место в турнирной таблице — ... из ... (топ-...%);
+2. `MNIST`: распознавание цифр, результат участия в [соревновании](https://www.kaggle.com/c/digit-recognizer/overview) — Accuracy = 0.99239, место в турнирной таблице — 10157 из 15637 (топ-65%);
 3. `titanic`: предсказание выживаемости в кораблекрушении, результат участия в [соревновании](https://www.kaggle.com/competitions/titanic) — Accuracy = 0.77272, место в турнирной таблице — 10157 из 15637 (топ-65%).
